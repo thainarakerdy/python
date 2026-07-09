@@ -11,3 +11,9 @@ de várias linhas
 
 idade = 5
 print(idade);
+
+idade = 15
+print(idade);
+
+i = 6
+type(i)
