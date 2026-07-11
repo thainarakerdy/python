@@ -12,4 +12,10 @@ nome_usuario = input("Digite o seu nome: ")
 print(f"Bem vindo(a) {nome_usuario}!") #Pelo o que eu entendi é necessário colocar esse f antes das aspas quando quer colocar um texto e uma variável, pode colocar também o '.format(variável)' e ccolocar a chaves no texto onde você quer a variável
 
 #se não converter o input para outro tipo de variável, ele sempre vai dá o valor como 'String', ou seja, se quiser que um valor seja um número inteiro vai ter que colocar 'int(input())'
-#para umm número quebrado, ou seja, o float vai ficar 
+#para umm número quebrado, ou seja, o float vai ficar 'float(input())'
+
+idade_usuario = int(input("digite a sua idade: "))
+print(f"Sua idade é {idade_usuario}")
+
+altura_usuario = float(input("digite a sua altura: "))
+print(f"Sua altura é {altura_usuario}")
