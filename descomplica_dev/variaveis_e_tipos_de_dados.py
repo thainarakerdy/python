@@ -21,7 +21,7 @@
 # print(cores)
 # print(type(cores))
 
-# aluno = {"nome": "Maria", "idade": 25, "curso": "Engenharia"} # Dicionário (dict) é uma váriavel com várias outras váriaveis dentro
+# aluno = {"nome": "Maria", "idade": 25, "curso": "Engenharia"} # Dicionário (dict) é uma variável com várias outras variáveis dentro
 # print(aluno)
 # print(type(aluno))
 
